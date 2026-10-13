@@ -1,4 +1,5 @@
 # SQL Data Warehouse Project | End-to-End ETL Pipeline
+![Image Alt](https://github.com/farhat706/Sql_Data_warehouse_project/blob/ee8b67729451204c5a2ad0eb4a0823c21ca9d0ef/image%20(13).png)
 
 ## 📌 Project Overview
 
